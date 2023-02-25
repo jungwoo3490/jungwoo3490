@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align=center>
   
   ## Experience 🎞️
-  • 경기대학교 컴퓨터공학부 (19.03 ~ ?)
+  • 경기대학교 컴퓨터공학부 컴퓨터공학전공 (19.03 ~ ?)
   
   • 육군본부 사이버작전센터 정보보호병 (21.05 ~ 22.11)
   

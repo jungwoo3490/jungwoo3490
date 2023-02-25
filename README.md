@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 
 <div align=center>
   
+  ## Experience 🎞️
+  • 경기대학교 컴퓨터공학부 (19.03 ~ ?)
+  
+  • 육군본부 사이버작전센터 정보보호병 (21.05 ~ 22.11)
+  
+  <br/>
+  <br/>
+  
   <!--기술스택-->
   ## Skill :four_leaf_clover:
 
@@ -29,5 +37,5 @@ Here are some ideas to get you started:
   <br />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=React%20Router&logoColor=white"/>
-
+  
 </div>

@@ -38,4 +38,26 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=React%20Router&logoColor=white"/>
   
+  <br/>
+  <br/>
+  <br/>
+  
+  ## Awards 🏆
+  <br/>
+  <strong>🗓 2019</strong>
+  <br/>
+  <br/>
+  • 2019년 1학기 성적우수장학생 (AVG 4.33)
+  
+  • 2019년 2학기 성적우수장학생 (AVG 4.5)
+  
+  <br/>
+  <strong>🗓 2020</strong>
+  <br/>
+  <br/>
+  • 2020년 1학기 성적우수장학생 (AVG 4.5)
+  
+  • 2020년 2학기 성적우수장학생 (AVG 4.5)
+  
 </div>
+

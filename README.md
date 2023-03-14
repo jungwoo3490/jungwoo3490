@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   
   • 육군본부 사이버작전센터 정보보호병 (21.05 ~ 22.11)
   
+  • University MakeUs Challenge [UMC] 4th Web Part Developer (23.03 ~ 23.08)
+  
   <br/>
   <br/>
   

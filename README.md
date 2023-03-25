@@ -59,7 +59,13 @@ Here are some ideas to get you started:
   
   • 🥇 2020년 2학기 성적우수장학생 (AVG 4.5)
   
-   <br/>
+  <br/>
+  <strong>🗓 2022</strong>
+  <br/>
+  <br/>
+  • 🥉 경기대학교 SW 상상기업 프로그램 경진대회 소프트웨어중심대학사업단장상 (장려상)
+  
+  <br/>
   <strong>🗓 2023</strong>
   <br/>
   <br/>

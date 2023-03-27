@@ -20,13 +20,9 @@ Here are some ideas to get you started:
   <hr/>
 
   ## Experience 🎞️
-  - 경기대학교 컴퓨터공학부 컴퓨터공학전공 (19.03 ~ ?)
-  - 육군본부 사이버작전센터 정보보호병 (21.05 ~ 22.11)
+  - Kyonggi University Computer Science and Engineering (19.03 ~ ?)
+  - ROKA HQ Army Cyber Operation Center (21.05 ~ 22.11)
   - Univ. MakeUs Challenge [UMC] 4th Web Part Developer (23.03 ~ 23.08)
-  
-  <br/>
-  <br/>
-
   <hr/>
   
   <!--기술스택-->

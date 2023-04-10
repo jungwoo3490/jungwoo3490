@@ -100,4 +100,6 @@ Here are some ideas to get you started:
   <br/>
   • 🥉 경기대학교 SW•AI 창업 아이디어 경진대회 장려상
   
+  • 🥈 CSTS(Certificated Software Test Specialist) FL 전국 차석 합격
+  
 </div>

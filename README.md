@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React%20Router&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
   
    <br />
   
@@ -87,14 +88,7 @@ Here are some ideas to get you started:
   
   • 🥇 2020년 2학기 성적우수장학생 (AVG 4.5)
   
-  <br/>
-  <strong>🗓 2022</strong>
-  <br/>
-  <br/>
-  • 🥉 경기대학교 SW 상상기업 프로그램 경진대회 소프트웨어중심대학사업단장상 (장려상)
   
-  <br/>
-  <br/>
   <br/>
   <strong>🗓 2023</strong>
   <br/>

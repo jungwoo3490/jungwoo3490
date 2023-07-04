@@ -100,5 +100,6 @@ Here are some ideas to get you started:
   - 🥈 CSTS(Certificated Software Test Specialist) FL 전국 차석 합격
   - 🥈 한국정보기술학회 대학생논문경진대회 은상
   - 🥉 4th Ne(o)rdinary Hackathon 우수상 (3rd place)
+  - 🥉 4th UMC Hackathon 우수상 (3rd place)
   
 </div>

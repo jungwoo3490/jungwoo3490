@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20JungWoo&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=200&section=header&text=🍀%20Front-End%20Developer&desc=JungWoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=25&descAlignY=52)
 
 <div>
 

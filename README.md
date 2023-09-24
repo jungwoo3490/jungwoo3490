@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   - Kyonggi University Computer Science and Engineering (19.03 ~ ?)
   - ROKA HQ Army Cyber Operation Center (21.05 ~ 22.11)
   - Univ. MakeUs Challenge [UMC] 4th Web Part Developer (23.03 ~ 23.08)
-  - Univ. MakeUs Challenge [UMC] 5th Web Part Leader (23.09 ~ )
-  - SOPT 33th Web Part Developer (23.09 ~ )
+  - Univ. MakeUs Challenge [UMC] 5th Web Part Leader (23.09 ~ 24.02)
+  - SOPT 33th Web Part Developer (23.09 ~ 24.01)
   <hr/>
 
   <!--기술스택-->

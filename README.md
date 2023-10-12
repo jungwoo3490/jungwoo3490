@@ -56,8 +56,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   </div>
   </div>
- <br />
-  <br />
   <hr/>
    <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="450"/>
    <img align="right" style="margin-top: 100px;" width="450" src="https://streak-stats.demolab.com?user=jungwoo3490&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">

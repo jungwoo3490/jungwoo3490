@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
   <!--기술스택-->
 
-  <div align="left>
+  <div align="center>
 
    <div align="center">
      
@@ -60,7 +60,6 @@ Here are some ideas to get you started:
   <br />
   <hr/>
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=jungwoo3490&show_icons=true&theme=vue&bg_color=FFFFFF00&hide_border=true&text_color=41b883&icon_color=273849" alt="hoyahozz" />
-  <br />
    <img align="right" style="margin-top: 100px;" width="450" src="https://streak-stats.demolab.com?user=jungwoo3490&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
 <div>
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=200&section=header&text=🍀%20Front-End%20Developer&desc=JungWoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=25&descAlignY=52)
 
 <div>
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="400"/>
+   <img align="right" src="https://i.ibb.co/Yj2SXZV/mimozi.png" width="400"/>
   <br />
   
   <samp> I'm Jung-woo Lee from 🇰🇷 Republic of Korea.<br /> I'm Undergraduate Student of Computer Engineering of Kyonggi University. I like *Front-End* and wanna be a expert of it.<br />  I'm interested in improving UI/UX.<br /> I'm always open to your contacts so do not hesitate! </samp>

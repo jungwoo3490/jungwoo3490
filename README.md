@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <div>
 
 <br />
+
 **KGU CSE (2019.03 ~ Current)**
 > - Grade Scholarship Student (4.4/4.5)
 > - KGU SW·AI Start-up Idea Contest 3rd Place

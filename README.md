@@ -62,7 +62,7 @@ Here are some ideas to get you started:
    <img align="right" style="margin-top: 100px;" width="450" src="https://streak-stats.demolab.com?user=jungwoo3490&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
 <div>
 
-  
+<br />
 **KGU CSE (2019.03 ~ Current)**
 > - Grade Scholarship Student (4.4/4.5)
 > - KGU SW·AI Start-up Idea Contest 3rd Place

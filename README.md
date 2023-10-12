@@ -41,11 +41,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.JS-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
   <br />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=200&section=header&text=🍀%20Front-End%20Developer&desc=JungWoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=25&descAlignY=52)
 
 <div>
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="350"/>
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="380"/>
   <br />
   
   <samp> I'm Jung-woo Lee from 🇰🇷 Republic of Korea.<br /> I'm Undergraduate Student of Computer Engineering of Kyonggi University. I like *Front-End* and wanna be a expert of it.<br />  I'm interested in improving User Interface and User Experience.<br /> I'm always open to your contacts so do not hesitate! </samp>
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
  <br />
   <br />
   <hr/>
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jungwoo3490&show_icons=true&theme=vue&bg_color=FFFFFF00&hide_border=true&text_color=41b883&icon_color=273849" alt="hoyahozz" />
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=jungwoo3490&show_icons=true&theme=vue&bg_color=FFFFFF00&hide_border=true&text_color=41b883&icon_color=273849" alt="hoyahozz" />
   <br />
-   <img align="right" style="margin-top: 100px;" width="400" src="https://streak-stats.demolab.com?user=jungwoo3490&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
+   <img align="right" style="margin-top: 100px;" width="450" src="https://streak-stats.demolab.com?user=jungwoo3490&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
 <div>
 
   

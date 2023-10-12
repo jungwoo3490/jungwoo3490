@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 > - 5th Web Part Leader
 <br />
 
-**SOPT (2023.03 ~ Current)**
+**SOPT (2023.09 ~ Current)**
 > - 33rd Web Part YB
 
 </div>

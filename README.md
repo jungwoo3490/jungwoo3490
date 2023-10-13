@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 > - 4th Web Part Developer
 > - 4th Ne(o)rdinary Hackathon 3rd Place
 > - 4th UMC Hackathon 3rd Place
+> - 4th KGU UMC Web Part MVP
 > - 5th Web Part Leader
 <br />
 

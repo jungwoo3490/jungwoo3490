@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 **Army Cyber Operation Center (2021.05 ~ 2022.11)**
 > - Computer Emergency Response Team
-> - Monitored Cyber Attack & Developed Security Program
+> - Monitored Cyber Attack & Developed Military Security Software
 <br />
 
 **UMC (2023.03 ~ Current)**

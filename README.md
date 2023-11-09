@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <br />
   <br />
   <hr/>
-   <img align="right" style="margin-top: 100px;" width="450" src="https://streak-stats.demolab.com?user=jungwoo3490&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
+   <img align="right" style="margin-top: 100px;" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=jungwoo3490&show_icons=true&locale=en&layout=compact">
 <div>
 
 <br />

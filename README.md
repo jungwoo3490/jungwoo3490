@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 
 **SOPT (2023.09 ~ Current)**
 > - 33rd Web Part YB
+> - Team Lecue
 
 </div>
   

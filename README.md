@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 > - Monitored Cyber Attack & Developed Military Security Software
 <br />
 
-**UMC (2023.03 ~ Current)**
+**UMC (2023.03 ~ 2024.02)**
 > - 4th Web Part Developer
 > - 4th Ne(o)rdinary Hackathon 3rd Place
 > - 4th UMC Hackathon 3rd Place

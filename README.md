@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 <div>
    <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="380"/>
-  <br />
-  
 
-  <br />
 
 
   <div align="center">

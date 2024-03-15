@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=200&section=header&text=🍀%20Front-End%20Developer&desc=JungWoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=25&descAlignY=52)
 
 <div>
-   <div>
-      <br />
-      <br />
-      <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="370"/>
-   </div>
+   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="370"/>
 
 
 

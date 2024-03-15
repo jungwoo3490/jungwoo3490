@@ -19,13 +19,17 @@ Here are some ideas to get you started:
    <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="380"/>
   <br />
   
-  <samp> I'm Jung-woo Lee from 🇰🇷 Republic of Korea.<br /> I'm Undergraduate Student of Computer Engineering of Kyonggi University. I like *Front-End* and wanna be a expert of it.<br />  I'm interested in improving UI/UX.<br /> I'm always open to your contacts so do not hesitate! </samp>
 
   <br />
 
-  <!--기술스택-->
 
   <div align="center">
+ 
+   <!--백준-->
+     
+   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwoo3490)](https://solved.ac/jungwoo3490)
+
+    
 
    <div align="center">
      

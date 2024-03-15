@@ -16,17 +16,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=200&section=header&text=🍀%20Front-End%20Developer&desc=JungWoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=25&descAlignY=52)
 
 <div>
-   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="380"/>
+   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/whyzzd/pic-Bed/images/2023/20230318172255.gif" width="450"/>
 
 
 
   <div align="center">
- 
-   <!--백준-->
-     
-   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwoo3490)](https://solved.ac/jungwoo3490)
-
-    
 
    <div align="center">
      
@@ -55,10 +49,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+
+   <br />
+  <br />
+  
+   <!--백준-->
+        
+   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwoo3490)](https://solved.ac/jungwoo3490)
+
   </div>
   </div>
-  <br />
-  <br />
+
   <hr/>
    <img align="right" style="margin-top: 100px;" width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jungwoo3490&show_icons=true&count_private=true&theme=cobalt">
 <div>

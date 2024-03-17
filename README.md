@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <br />
   <hr/>
    <img align="right" style="margin-top: 100px;" width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jungwoo3490&show_icons=true&count_private=true&theme=cobalt"    />
-   <img align="right" style="margin-top: 200px;" width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwoo3490">
+   <img align="right" style="margin-top: 200px;" width="370" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwoo3490">
 <div>
 <br />
 

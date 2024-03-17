@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <br />
   <br />
   <hr/>
-   <img align="right" style="margin-top: 200px;" width="370" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwoo3490">
+   <img align="right" style="margin-top: 200px;" width="380" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwoo3490">
 <div>
 <br />
 

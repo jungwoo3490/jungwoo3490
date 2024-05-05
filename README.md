@@ -1,6 +1,11 @@
 ## 👋 Hi, I'm Jungwoo Lee
 👨🏻‍💻 Frontend Developer  
 
+> 동료와 함께 성장하는 것을 좋아하고, 맡은 일에 책임감을 다해 문제를 해결하는 개발자. <br/>
+> Developer who loves to grow with their colleagues and take responsibility for solving problems.
+
+<br/>
+
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
   
@@ -15,8 +20,8 @@
 
 ### ✨ Contributions
 
-* [toss/es-hangul](https://github.com/toss/es-hangul/issues?q=author%3Ajungwoo3490)
-* [toss/slash](https://github.com/toss/slash/issues?q=author%3Ajungwoo3490)
+* [toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=author%3Ajungwoo3490)
+* [toss/slash](https://github.com/toss/slash/pulls?q=author%3Ajungwoo3490)
 
 ### 🚀 Activities
 

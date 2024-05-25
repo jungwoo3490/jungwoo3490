@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Jungwoo Lee
 👨🏻‍💻 Frontend Developer  
 
-> 동료와 함께 성장하는 것을 좋아하고, 맡은 일에 책임감을 다해 문제를 해결하는 개발자입니다. <br/>
-> Developer who loves to grow with their colleagues and take responsibility for solving problems.
 
 <br/>
 

@@ -23,7 +23,7 @@
 * [Tanstack/tanstack.com](https://github.com/TanStack/tanstack.com/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 
-### 🚀 Activities
+### 🔥 Activities
 
 * **대학생 연합동아리** [SOPT](https://sopt.org/) **34기 Web Frontend 파트 OB (2024.03 ~ NOW)**
 * 대학생 연합동아리 [SOPT](https://sopt.org/) 33기 Web Frontend 파트 YB (2023.09 ~ 2024.01)

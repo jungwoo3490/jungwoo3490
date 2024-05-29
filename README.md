@@ -22,6 +22,7 @@
 * [toss/slash](https://github.com/toss/slash/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [Tanstack/tanstack.com](https://github.com/TanStack/tanstack.com/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
+* [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pulls?q=author%3Ajungwoo3490+is%3Aclosed+)
 
 ### 🔥 Activities
 

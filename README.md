@@ -18,6 +18,7 @@
 
 ### ✨ Contributions
 
+* [toss/suspensive](https://github.com/toss/suspensive/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [toss/slash](https://github.com/toss/slash/pulls?q=author%3Ajungwoo3490+is%3Aclosed)

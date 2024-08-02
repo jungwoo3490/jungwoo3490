@@ -27,7 +27,7 @@ npx jungwoo
 
 ### 🔥 Activities
 
-* 대학생 연합동아리** [SOPT](https://sopt.org/) **34기 Web Frontend 파트 OB (2024.03 ~ 2024.07)
+* 대학생 연합동아리 [SOPT](https://sopt.org/) 34기 Web Frontend 파트 OB (2024.03 ~ 2024.07)
 * 대학생 연합동아리 [SOPT](https://sopt.org/) 33기 Web Frontend 파트 YB (2023.09 ~ 2024.01)
 * 대학생 연합동아리 [UMC](https://www.makeus.in/umc) 5기 Web Frontend 파트장 (2023.09 ~ 2024.02)
 * 대학생 연합동아리 [UMC](https://www.makeus.in/umc) 4기 Web Frontend 파트 MVP (2023.03 ~ 2023.08)

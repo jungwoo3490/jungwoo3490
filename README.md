@@ -25,6 +25,10 @@ npx jungwoo
 * [toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 
+### 🔥 Experience
+
+* 육군본부 사이버작전센터 Computer Emergency Response Team (2021.07 ~ 2022.11)
+
 ### 🔥 Activities
 
 * **[SOPT Makers](https://makers.sopt.org/) 5기 Platform Team FE Engineer (2024.09 ~ NOW)**

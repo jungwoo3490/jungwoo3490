@@ -27,6 +27,7 @@ npx jungwoo
 
 ### 🚀 Experiences
 
+* **토스증권 Web Frontend Developer Assistant (2024.11 ~ NOW)**
 * 육군본부 사이버작전센터 Computer Emergency Response Team (2021.07 ~ 2022.11)
 
 ### 🔥 Activities

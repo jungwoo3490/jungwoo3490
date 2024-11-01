@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Jungwoo Lee
-👨🏻‍💻 Frontend Engineer 
+👨🏻‍💻 Frontend Developer
 
 ```
 npx jungwoo

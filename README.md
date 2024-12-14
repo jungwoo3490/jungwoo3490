@@ -27,13 +27,13 @@ npx jungwoo
 
 ### 🚀 Experiences
 
-* **토스증권 Web Frontend Developer Assistant (2024.11 ~ NOW)**
-* 육군본부 사이버작전센터 Computer Emergency Response Team (2021.07 ~ 2022.11)
+* **Toss Securities Web Frontend Developer Assistant (2024.11 ~ NOW)**
+* Republic of Korea Army Headquarters, Computer Emergency Response Team (2021.07 ~ 2022.11)
 
 ### 🔥 Activities
 
-* **[SOPT Makers](https://makers.sopt.org/) 5기 Platform Team FE Engineer (2024.09 ~ NOW)**
-* 대학생 연합동아리 [SOPT](https://sopt.org/) 34기 Web Frontend 파트 OB (2024.03 ~ 2024.07)
-* 대학생 연합동아리 [SOPT](https://sopt.org/) 33기 Web Frontend 파트 YB (2023.09 ~ 2024.01)
-* 대학생 연합동아리 [UMC](https://www.makeus.in/umc) 5기 Web Frontend 파트장 (2023.09 ~ 2024.02)
-* 대학생 연합동아리 [UMC](https://www.makeus.in/umc) 4기 Web Frontend 파트 MVP (2023.03 ~ 2023.08)
+* **SOPT Makers 5th Platform Team FE Engineer (2024.09 ~ NOW)**
+* SOPT 34th Web Frontend Part OB (2024.03 ~ 2024.07)
+* SOPT 33rd Web Frontend Part YB (2023.09 ~ 2024.01)
+* UMC 5th Web Frontend Part Leader (2023.09 ~ 2024.02)
+* UMC 4th Web Frontend Part MVP (2023.03 ~ 2023.08)

@@ -23,6 +23,7 @@ npx jungwoo
 * [toss/suspensive](https://github.com/toss/suspensive/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
+* [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals)
 * [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 
 ### 🚀 Experiences

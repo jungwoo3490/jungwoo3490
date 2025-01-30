@@ -25,6 +25,7 @@ npx jungwoo
 * [toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
+* [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 
 ### 🚀 Experiences
 
@@ -33,7 +34,7 @@ npx jungwoo
 
 ### 🔥 Activities
 
-* **SOPT Makers 5th Platform Team FE Engineer (2024.09 ~ NOW)**
+* SOPT Makers 5th Platform Team FE Engineer (2024.09 ~ 2025.01)
 * SOPT 34th Web Frontend Part OB (2024.03 ~ 2024.07)
 * SOPT 33rd Web Frontend Part YB (2023.09 ~ 2024.01)
 * UMC 5th Web Frontend Part Leader (2023.09 ~ 2024.02)

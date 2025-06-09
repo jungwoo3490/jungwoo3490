@@ -25,6 +25,7 @@ npx jungwoo
 * [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 * [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
+* [line/webpack.kr](https://github.com/line/webpack.kr/pulls?q=author%3Ajungwoo3490+is%3Aclosed)
 
 ### 🚀 Experiences
 
